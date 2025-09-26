@@ -1,37 +1,57 @@
-# 电气简图用图形符号
+# GB-T 4728 电气简图用图形符号国家标准仓库 🇨🇳⚡
 
-#### 介绍
-电气简图用图形符号相关国家标准
+<div align="center">
+  
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/your-username/GB-T-4728)
+![GitHub repo size](https://img.shields.io/github/repo-size/your-username/GB-T-4728)
+![GitHub all releases](https://img.shields.io/github/downloads/your-username/GB-T-4728/total)
+![GitHub issues](https://img.shields.io/github/issues/your-username/GB-T-4728)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/GB-T-4728)
+![GitHub](https://img.shields.io/github/license/your-username/GB-T-4728)
 
-#### 软件架构
-软件架构说明
+[简体中文](./README.md) | [English](./README_EN.md)
 
+📚 最全面的 **GB-T 4728** 国家标准资源合集 | 持续更新 | 开放共享 | 专业可靠
 
-#### 安装教程
+</div>
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+---
 
-#### 使用说明
+## 🎯 仓库简介
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+本仓库致力于收集、整理和分享 **GB-T 4728《电气简图用图形符号》** 系列国家标准的各个版本及相关资源，为电气工程、自动化、电子设计等领域的工程师、学生和研究人员提供便捷的标准查询和使用体验。
 
-#### 参与贡献
+> ⚠️ **重要声明**：本仓库所有标准文件均来源于公开渠道，仅供学习、研究和技术交流使用。如需商业使用，请购买正式出版物或联系中国标准出版社获取授权。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+---
 
+## 📋 标准概览
 
-#### 特技
+### 🔧 标准基本信息
+| 项目 | 内容 |
+|------|------|
+| 标准编号 | GB/T 4728 |
+| 标准名称 | 电气简图用图形符号 |
+| 发布机构 | 国家市场监督管理总局、国家标准化管理委员会 |
+| 适用范围 | 电气工程、电子技术、自动化控制等领域 |
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+### 📚 系列标准结构
+GB/T 4728 系列标准共分为 **13个部分**，本仓库提供完整的系列资源：
+
+| 部分 | 标准编号 | 名称 | 状态 | 文件格式 |
+|------|----------|------|------|----------|
+| 第1部分 | GB/T 4728.1 | 一般要求 | ✅ 已收录 | PDF |
+| 第2部分 | GB/T 4728.2 | 符号要素、限定符号和其他常用符号 | ✅ 已收录 | PDF |
+| 第3部分 | GB/T 4728.3 | 导体和连接件 | ✅ 已收录 | PDF |
+| 第4部分 | GB/T 4728.4 | 基本无源元件 | ✅ 已收录 | PDF |
+| 第5部分 | GB/T 4728.5 | 半导体管和电子管 | ✅ 已收录 | PDF |
+| 第6部分 | GB/T 4728.6 | 电能的发生与转换 | ✅ 已收录 | PDF |
+| 第7部分 | GB/T 4728.7 | 开关、控制和保护器件 | ✅ 已收录 | PDF |
+| 第8部分 | GB/T 4728.8 | 测量仪表、灯和信号器件 | ✅ 已收录 | PDF |
+| 第9部分 | GB/T 4728.9 | 电信：交换和外围设备 | ✅ 已收录 | PDF |
+| 第10部分 | GB/T 4728.10 | 电信：传输 | ✅ 已收录 | PDF |
+| 第11部分 | GB/T 4728.11 | 建筑及测绘装置图及简图 | ✅ 已收录 | PDF |
+| 第12部分 | GB/T 4728.12 | 二进制逻辑元件 | ✅ 已收录 | PDF |
+| 第13部分 | GB/T 4728.13 | 模拟元件 | ✅ 已收录 | PDF |
+
+---
