@@ -1,13 +1,6 @@
 # GB-T 4728 电气简图用图形符号国家标准仓库 🇨🇳⚡
 
 <div align="center">
-  
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/your-username/GB-T-4728)
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/GB-T-4728)
-![GitHub all releases](https://img.shields.io/github/downloads/your-username/GB-T-4728/total)
-![GitHub issues](https://img.shields.io/github/issues/your-username/GB-T-4728)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/GB-T-4728)
-![GitHub](https://img.shields.io/github/license/your-username/GB-T-4728)
 
 [简体中文](./README.md) | [English](./README_EN.md)
 
