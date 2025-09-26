@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[简体中文](https://www.kimi.com/chat/README.md) | [English](https://www.kimi.com/chat/README_EN.md)
+[简体中文](https://gitee.com/keke010529/4728/blob/master/README.md) | [English](https://gitee.com/keke010529/4728/blob/master/README.en.md)
 
 📚 The **fullest** open set of **GB-T 4728** standards | Updated often | Free to use | Made for work
 
