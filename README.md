@@ -53,7 +53,7 @@ GB/T 4728 系列标准共分为 **13个部分**，本仓库提供完整的系列
 
 ## 🤝 如何贡献
 
-我们欢迎并感谢所有形式的贡献！请查看 [CONTRIBUTING.md](https://www.kimi.com/chat/CONTRIBUTING.md) 了解详细信息。
+我们欢迎并感谢所有形式的贡献！请查看 [CONTRIBUTING.md](https://gitee.com/keke010529/4728/blob/master/CONTRIBUTING.md) 了解详细信息。
 
 ### 🌟 贡献方式
 
